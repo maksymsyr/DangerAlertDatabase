@@ -1,4 +1,4 @@
-🚀 Social Media Application Database 🌐
+######🚀 Social Media Application Database 🌐
 
 Welcome to the fun and functional repository for our Social Media Application Database! This is where all the magic happens behind the scenes to keep communities safe and engaged, especially in dangerous areas. Let's dive into what makes this database tick!
 

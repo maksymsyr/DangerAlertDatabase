@@ -28,7 +28,7 @@ Ready to set up the database? Follow these steps:
 
     ```bash
     git clone https://github.com/maksymsyr/SocialMediaDatabase/.git
-    cd social-media-app-database
+    cd SocialMediaDatabase
     ```
 
 - **Set Up the Database:**
@@ -37,13 +37,13 @@ Ready to set up the database? Follow these steps:
     - Create a new database:
 
         ```sql
-        CREATE DATABASE social_media_app;
+        CREATE DATABASE SocialMediaDatabase;
         ```
 
     - Import the SQL scripts:
 
         ```bash
-        mysql -u your-username -p social_media_app < setup.sql
+        mysql -u your-username -p SocialMediaDatabase < setup.sql
         ```
 
 ## 🗂 Database Structure

@@ -1,14 +1,5 @@
 # 🚀 Social Media Application Database 🌐
 
-Welcome to the fun and functional repository for our Social Media Application Database! This is where all the magic happens behind the scenes to keep communities safe and engaged, especially in dangerous areas. Let's dive into what makes this database tick!
-
-## 🌟 Features
-
-Our database is packed with features to ensure safety and engagement:
-
-- **📊 Track Community Engagement:** Keep tabs on likes, comments, and shares on community posts.
-# 🚀 Social Media Application Database 🌐
-
 Welcome to the fun and functional repository for our **Social Media Application Database**! This is where all the magic happens behind the scenes to keep communities safe and engaged, especially in dangerous areas. Let's dive into what makes this database tick!
 
 ## 🌟 Features

@@ -27,8 +27,8 @@ Ready to set up the database? Follow these steps:
 - **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/maksymsyr/SocialMediaDatabase/.git
-    cd SocialMediaDatabase
+    git clone https://github.com/maksymsyr/DangerAlertDatabase/.git
+    cd DangerAlertDatabase
     ```
 
 - **Set Up the Database:**
@@ -37,13 +37,13 @@ Ready to set up the database? Follow these steps:
     - Create a new database:
 
         ```sql
-        CREATE DATABASE SocialMediaDatabase;
+        CREATE DATABASE DangerAlertDatabase;
         ```
 
     - Import the SQL scripts:
 
         ```bash
-        mysql -u your-username -p SocialMediaDatabase < setup.sql
+        mysql -u your-username -p DangerAlertDatabase < setup.sql
         ```
 
 ## 🗂 Database Structure
